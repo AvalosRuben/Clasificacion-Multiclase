@@ -1,2 +1,2 @@
-#Ignorar el entonro virtual venv
-venv/
+.venv/
+.ipynb_checkpoints/
